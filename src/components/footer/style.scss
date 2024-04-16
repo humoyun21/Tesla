@@ -1,0 +1,25 @@
+.footer_nav{
+    display: flex;
+   
+    justify-content: space-between;
+    margin-bottom: 55px;
+    
+}
+.footer-btn{
+    display: flex;
+    align-items: center;
+    border-radius: 85px;
+background: var(--1, linear-gradient(0deg, rgba(0, 0, 0, 0.20) 0%, rgba(0, 0, 0, 0.20) 100%), #0081FF);
+backdrop-filter: blur(250px);
+p{
+    color: #FFF;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 10px 24px 9px 24px;
+}
+img{
+    padding-right: 12px;
+}
+}
